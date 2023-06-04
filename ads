@@ -1,3 +1,5 @@
+https://rachidouxen.blogspot.com/p/privacy-policy.html
+
 {
   "ADS": {
 
